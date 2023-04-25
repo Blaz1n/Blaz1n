@@ -6,6 +6,8 @@
 
 ![Blazin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaz1n&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaz1n)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens de Programação
 
 <div style="display: inline_block"><br/>
